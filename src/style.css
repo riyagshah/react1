@@ -1,0 +1,39 @@
+.main{
+    width: 80%;
+    height:50px;;
+display: flex;
+margin:auto;
+background:rgb(0, 0, 0);
+justify-content:space-around;
+align-items:center;
+
+}
+.middle{
+    display: flex;
+    justify-content:space-around;
+    /* border:1px solid green; */
+    /* width:100%; */
+    height: auto;
+    
+}
+.title{
+    margin-right:13px;
+    /* border:1px solid rgb(236, 236, 236); */
+    color:white;
+}
+.logo{
+    color: white;;
+}
+.title{
+    color:rgb(255, 255, 255)
+}
+.but{
+    cursor: pointer;
+    border-radius: 30px;
+    width:90px;
+    color:white;
+    background:#0088a9;
+    font-size:20px;
+    /* display: flex; */
+    text-align:center;
+}
